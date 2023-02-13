@@ -1,0 +1,9 @@
+/* Omer Boucris, 314969817
+Bar Bikovsky, 315941633 */
+.costs{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
